@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "715812139754",
+    "firebase_url": "https://family-mirror-804c7.firebaseio.com",
+    "project_id": "family-mirror-804c7",
+    "storage_bucket": "family-mirror-804c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715812139754:android:ad880708ebb88932",
+        "android_client_info": {
+          "package_name": "com.example.dohee.adapter_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715812139754-o660mqc4g2hkqn0a2m0p50ij37t9hija.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6i_GsTKs_SE2xllxxYTenbu69hnjau20"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

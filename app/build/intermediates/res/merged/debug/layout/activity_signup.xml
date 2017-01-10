@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_signup"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="com.example.dohee.adapter_pro.SignUpActivity">
+
+    <TextView
+        android:layout_marginTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="회원가입"
+        android:textSize="40dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="회원정보를 입력한뒤 확인버튼을 눌러주세요."
+        android:textColor="#6b6b6b"
+        android:layout_marginBottom="30dp" />
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:hint="이름"
+        android:textSize="15dp"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/edit1"/>
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:hint="아이디"
+        android:textSize="15dp"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/edit2"/>
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:hint="비밀번호"
+        android:inputType="textPassword"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/edit3"
+        android:textSize="15dp"/>
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:hint="비밀번호확인"
+        android:inputType="textPassword"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/edit4"
+        android:textSize="15dp"
+        android:layout_marginTop="3dp"/>
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:hint="전화번호"
+        android:inputType="number"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/edit5"
+        android:textSize="15dp"
+        android:layout_marginTop="3dp"/>
+
+    <EditText
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:hint="미러키"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/edit6"
+        android:textSize="15dp"
+        android:layout_marginTop="3dp"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="확인"
+        android:onClick="insert"/>
+
+
+    <TextView
+        android:id="@+id/view"
+        android:layout_marginTop="5dp"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#FF0000"/>
+
+</LinearLayout>

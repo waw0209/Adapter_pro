@@ -1,0 +1,7 @@
+#Tue Dec 27 12:56:43 KST 2016
+base.0=/home/dohee/AndroidStudioProjects/Adapter_pro/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_358cf03c5d755986c55e7661e643ce48473bede6
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/dohee/AndroidStudioProjects/Adapter_pro/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_946b9fadcc07d9d7ddac96ec326ad0778eb2bdcb/classes.dex
+base.1=/home/dohee/AndroidStudioProjects/Adapter_pro/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_946b9fadcc07d9d7ddac96ec326ad0778eb2bdcb
+file.0=/home/dohee/AndroidStudioProjects/Adapter_pro/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_358cf03c5d755986c55e7661e643ce48473bede6/classes.dex

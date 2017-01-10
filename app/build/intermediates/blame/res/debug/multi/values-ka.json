@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "C:\\Users\\JangMinJae\\AndroidStudioProjects\\Adapter_pro\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 249,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "C:\\Users\\JangMinJae\\AndroidStudioProjects\\Adapter_pro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.6.1\\res\\values-ka\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 249,
+                        "endOffset": 588
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "C:\\home\\dohee\\AndroidStudioProjects\\Adapter_pro\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ka\\values-ka.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 249,
+                    "endOffset": 350
+                },
+                "from": {
+                    "file": "C:\\home\\dohee\\AndroidStudioProjects\\Adapter_pro\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.6.1\\res\\values-ka\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 249,
+                        "endOffset": 588
+                    }
+                }
+            }
+        ]
+    }
+]
